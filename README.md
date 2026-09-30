@@ -70,9 +70,5 @@
 <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </div>
-
 <br>
-
-<h5 align="center">"El único modo de hacer un gran trabajo es amar lo que haces."</h5>
